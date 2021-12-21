@@ -1,0 +1,22 @@
+.todo-form {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  padding: 30px;
+  border-radius: 15px;
+  background-color: skyblue;
+}
+
+.inputs-box {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+
+.input {
+  padding: 10px;
+}
+
+.input:focus {
+  outline: none;
+}
